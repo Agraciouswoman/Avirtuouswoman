@@ -2,7 +2,7 @@ And the LORD answered me, and said, Write the vision, and make it plain upon tab
 <body bgcolor="#0e6876">
   <font size="12"
           face="verdana"
-          color="f2f6f7">  
+          color="ffffff">  
         </font> 
 <img src="https://res.cloudinary.com/benevolent-woman/image/upload/c_scale,e_brightness:80,w_280/v1588197562/pexels-photo-2951140_qlf4d1.jpg" class="center">
 
