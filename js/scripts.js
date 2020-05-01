@@ -11,6 +11,15 @@
             top: 200
         }
     });
+      window.addEventListener("DOMContentLoaded"),function(){
+      var media = document.querySelector("video");
+
+      if (media.paused){
+         media.play();
+      } else {
+        media.play();
+      }
+    });
     
     new WOW().init();
     
