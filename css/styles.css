@@ -1,6 +1,6 @@
 /*
 
-https://www.benevolentwoman.com
+www.benevolentwoman.com
 
 */
 
@@ -147,6 +147,7 @@ p {
 
 .cursive {
     font-family: 'Sacramento', cursive;
+    font-size: 10px;
     text-transform: none;
 }
 
