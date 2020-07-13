@@ -57,7 +57,7 @@ App = {
             },
             map: map,
             icon: App.CONFIG.map.markerIcon,
-            title: 'Nas'
+            title: 'A Benevolent Woman'
         });
     },
 
